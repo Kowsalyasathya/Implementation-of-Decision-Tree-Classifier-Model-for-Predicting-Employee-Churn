@@ -75,6 +75,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/Kowsalyasathya/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118671457/77ffc293-096b-448f-8129-afa3e7cedc04)
 ### Optimization of null values:
 ![image](https://github.com/Kowsalyasathya/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118671457/435f6fea-2070-4c3f-bec0-2d96983e9f00)
+![image](https://github.com/Kowsalyasathya/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118671457/e362fcf2-9159-42cd-a2b5-3037f335494e)
 ### Assignment of x and y values:
 ![image](https://github.com/Kowsalyasathya/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118671457/f8b365c3-1ce5-49d4-88ac-134f39b22eab)
 ### LabelEncoder:
